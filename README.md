@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jake!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnovelli1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnovelli1&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
