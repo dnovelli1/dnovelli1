@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Jake!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnovelli1&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnovelli1&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnovelli1&theme=merko&layout=compact)](https://github.com/dnovelli1)
+[![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnovelli1&theme=merko)](https://github.com/dnovelli1)
 <!--
 **dnovelli1/dnovelli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
